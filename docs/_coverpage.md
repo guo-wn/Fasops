@@ -1,6 +1,6 @@
 ![logo](https://www.froala.com/assets/icons/line/black/dna-34d367ba10f706c5ca8281dfb7980264.png)
 
-# docsify <small>1.2.0</small>
+# Fasops <small>1.0.0</small>
 
 > `App::Fasops` operates blocked fasta files
 
