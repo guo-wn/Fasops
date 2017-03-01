@@ -7,11 +7,10 @@
 编译
 
 ```bash
-wget  http://xrl.us/cpanm  --no-check-certificate -O /sbin/cpanm
-chmod +x  /sbin/cpanm`
+curl -L https://cpanmin.us | perl - --sudo App::cpanminus
 安装 CPANMinus
 
-sudo cpanm App::Fasops
+cpanm App::Fasops
 安装 App::Fasops
 ```
 
