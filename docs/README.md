@@ -1,4 +1,4 @@
-# `App::Fasops` - operating blocked fasta files
+sudo# `App::Fasops` - operating blocked fasta files
 利用`App::Fasops`操作blocked fasta文件
 
 
@@ -10,7 +10,7 @@
 curl -L https://cpanmin.us | perl - --sudo App::cpanminus
 安装 CPANMinus
 
-cpanm App::Fasops
+sudo cpanm App::Fasops
 安装 App::Fasops
 ```
 
