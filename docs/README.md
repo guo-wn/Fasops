@@ -1,4 +1,4 @@
-sudo# `App::Fasops` - operating blocked fasta files
+# `App::Fasops` - operating blocked fasta files
 利用`App::Fasops`操作blocked fasta文件
 
 
